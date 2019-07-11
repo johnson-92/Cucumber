@@ -19,8 +19,7 @@ public class Hooks {
 	@After
 	public static void method2() {
 		
-		driver.close();
-		driver.quit();
+driver.quit();
 	}
 	
 }
