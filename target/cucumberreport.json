@@ -1,0 +1,503 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 46511796720,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.method1()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "To check the customer tariff plan",
+        "description": "",
+        "id": "to-test-add-traffic-plan;to-check-the-customer-tariff-plan;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 7951694929,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.method2()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 20683594457,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "The user should be telecom homepage and click the add tariff plan",
+            "match": {
+              "location": "StepDefinition.the_user_should_be_telecom_homepage_and_click_the_add_tariff_plan()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2086505369,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User should fill the required info and click submit \"199\",\"50\",\"25\",\"200\",\"20\",\"30\",\"12\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"199\"",
+                  "offset": 52
+                },
+                {
+                  "val": "\"50\"",
+                  "offset": 58
+                },
+                {
+                  "val": "\"25\"",
+                  "offset": 63
+                },
+                {
+                  "val": "\"200\"",
+                  "offset": 68
+                },
+                {
+                  "val": "\"20\"",
+                  "offset": 74
+                },
+                {
+                  "val": "\"30\"",
+                  "offset": 79
+                },
+                {
+                  "val": "\"12\"",
+                  "offset": 84
+                }
+              ],
+              "location": "StepDefinition.user_should_fill_the_required_info_and_click_submit(String,String,String,String,String,String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5100067345,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Validate if the tariff is added or not",
+            "match": {
+              "location": "StepDefinition.validate_if_the_tariff_is_added_or_not()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8023926258,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.method1()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "To check the customer tariff plan",
+        "description": "",
+        "id": "to-test-add-traffic-plan;to-check-the-customer-tariff-plan;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 4655724717,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.method2()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 18986644264,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "The user should be telecom homepage and click the add tariff plan",
+            "match": {
+              "location": "StepDefinition.the_user_should_be_telecom_homepage_and_click_the_add_tariff_plan()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1895701318,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User should fill the required info and click submit \"299\",\"70\",\"30\",\"250\",\"90\",\"60\",\"18\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"299\"",
+                  "offset": 52
+                },
+                {
+                  "val": "\"70\"",
+                  "offset": 58
+                },
+                {
+                  "val": "\"30\"",
+                  "offset": 63
+                },
+                {
+                  "val": "\"250\"",
+                  "offset": 68
+                },
+                {
+                  "val": "\"90\"",
+                  "offset": 74
+                },
+                {
+                  "val": "\"60\"",
+                  "offset": 79
+                },
+                {
+                  "val": "\"18\"",
+                  "offset": 84
+                }
+              ],
+              "location": "StepDefinition.user_should_fill_the_required_info_and_click_submit(String,String,String,String,String,String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5056700300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Validate if the tariff is added or not",
+            "match": {
+              "location": "StepDefinition.validate_if_the_tariff_is_added_or_not()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8951103579,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.method1()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "To check the customer tariff plan",
+        "description": "",
+        "id": "to-test-add-traffic-plan;to-check-the-customer-tariff-plan;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 3926684202,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.method2()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 19393989332,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "The user should be telecom homepage and click the add tariff plan",
+            "match": {
+              "location": "StepDefinition.the_user_should_be_telecom_homepage_and_click_the_add_tariff_plan()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1056785827,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User should fill the required info and click submit \"399\",\"90\",\"20\",\"240\",\"80\",\"40\",\"19\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"399\"",
+                  "offset": 52
+                },
+                {
+                  "val": "\"90\"",
+                  "offset": 58
+                },
+                {
+                  "val": "\"20\"",
+                  "offset": 63
+                },
+                {
+                  "val": "\"240\"",
+                  "offset": 68
+                },
+                {
+                  "val": "\"80\"",
+                  "offset": 74
+                },
+                {
+                  "val": "\"40\"",
+                  "offset": 79
+                },
+                {
+                  "val": "\"19\"",
+                  "offset": 84
+                }
+              ],
+              "location": "StepDefinition.user_should_fill_the_required_info_and_click_submit(String,String,String,String,String,String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5067103680,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Validate if the tariff is added or not",
+            "match": {
+              "location": "StepDefinition.validate_if_the_tariff_is_added_or_not()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 9516824670,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.method1()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "To check the customer tariff plan",
+        "description": "",
+        "id": "to-test-add-traffic-plan;to-check-the-customer-tariff-plan;;5",
+        "after": [
+          {
+            "result": {
+              "duration": 7118338137,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.method2()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 17506866026,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "The user should be telecom homepage and click the add tariff plan",
+            "match": {
+              "location": "StepDefinition.the_user_should_be_telecom_homepage_and_click_the_add_tariff_plan()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1689645297,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User should fill the required info and click submit \"499\",\"60\",\"25\",\"290\",\"30\",\"30\",\"13\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"499\"",
+                  "offset": 52
+                },
+                {
+                  "val": "\"60\"",
+                  "offset": 58
+                },
+                {
+                  "val": "\"25\"",
+                  "offset": 63
+                },
+                {
+                  "val": "\"290\"",
+                  "offset": 68
+                },
+                {
+                  "val": "\"30\"",
+                  "offset": 74
+                },
+                {
+                  "val": "\"30\"",
+                  "offset": 79
+                },
+                {
+                  "val": "\"13\"",
+                  "offset": 84
+                }
+              ],
+              "location": "StepDefinition.user_should_fill_the_required_info_and_click_submit(String,String,String,String,String,String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5061991182,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Validate if the tariff is added or not",
+            "match": {
+              "location": "StepDefinition.validate_if_the_tariff_is_added_or_not()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6758109573,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.method1()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "To check the customer tariff plan",
+        "description": "",
+        "id": "to-test-add-traffic-plan;to-check-the-customer-tariff-plan;;6",
+        "after": [
+          {
+            "result": {
+              "duration": 5967430242,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.method2()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 18840779958,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "The user should be telecom homepage and click the add tariff plan",
+            "match": {
+              "location": "StepDefinition.the_user_should_be_telecom_homepage_and_click_the_add_tariff_plan()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1426637773,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User should fill the required info and click submit \"599\",\"80\",\"27\",\"270\",\"50\",\"70\",\"15\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"599\"",
+                  "offset": 52
+                },
+                {
+                  "val": "\"80\"",
+                  "offset": 58
+                },
+                {
+                  "val": "\"27\"",
+                  "offset": 63
+                },
+                {
+                  "val": "\"270\"",
+                  "offset": 68
+                },
+                {
+                  "val": "\"50\"",
+                  "offset": 74
+                },
+                {
+                  "val": "\"70\"",
+                  "offset": 79
+                },
+                {
+                  "val": "\"15\"",
+                  "offset": 84
+                }
+              ],
+              "location": "StepDefinition.user_should_fill_the_required_info_and_click_submit(String,String,String,String,String,String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5063682641,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Validate if the tariff is added or not",
+            "match": {
+              "location": "StepDefinition.validate_if_the_tariff_is_added_or_not()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To test add traffic plan",
+    "description": "",
+    "id": "to-test-add-traffic-plan",
+    "keyword": "Feature",
+    "uri": "C:/Users/PRATHEEP A/eclipse-workspace/Testing1/features/Add.feature",
+    "tags": []
+  }
+]

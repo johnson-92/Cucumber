@@ -1,6 +1,5 @@
 package org.cts.testing2;
 
-import org.junit.Assert;
 //import org.junit.Assert;
 import org.openqa.selenium.By;
 
@@ -42,7 +41,7 @@ public class StepDefinition extends AddTariffPage {
 	public void validate_if_the_tariff_is_added_or_not() throws InterruptedException {
 
 		System.out.println("given 3 was done");
-		Thread.sleep(4000);
+		Thread.sleep(5000);
 		WebElement hometxt = Hooks.driver.findElement(By.xpath("//h2[text()='Congratulation you add Tariff Plan']"));
 	String optxt = hometxt.getText();
 	System.out.println(optxt);
