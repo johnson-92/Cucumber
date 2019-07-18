@@ -1,4 +1,4 @@
-package org.cts.testing2;
+package org.cts.testing2.Stepdefinition;
 
 import org.junit.runner.RunWith;
 
